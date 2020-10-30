@@ -1,6 +1,6 @@
 {
   "name": "lliytnik/eventbus-transport-rabbit",
-  "description": "package for using kafka in eventbus",
+  "description": "package for using rabbitMq in eventbus",
   "type": "extension",
   "license": "BSD-3-Clause",
   "authors": [
